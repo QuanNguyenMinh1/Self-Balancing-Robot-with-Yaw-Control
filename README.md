@@ -1,7 +1,11 @@
 # Self-Balancing-Robot-with-Yaw-Control
 ---
 ## Demo
+### Turning 90 degrees
 <video src="https://github.com/user-attachments/assets/d384eeeb-b339-4759-9bde-05d9948f5932" width="100%" controls>
+</video>
+### Self-balancing
+<video src="https://github.com/user-attachments/assets/24c727ca-0a64-4b7e-a9e8-a64cf511929f" width="100%" controls>
 </video>
 ---
 
