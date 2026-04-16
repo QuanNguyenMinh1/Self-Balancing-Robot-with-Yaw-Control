@@ -13,7 +13,7 @@
 
 
 ## 📌 Overview
-Dự án phát triển robot con lắc ngược hai bánh (TWIP) trên nền tảng **STM32 (Bare-metal)**. Điểm nhấn kỹ thuật của dự án là khả năng kiểm soát hướng (**Yaw Control**) kết hợp với hệ thống cân bằng, giúp robot duy trì và tự động quay về hướng chỉ định (`yaw_setpoint`) sau khi chịu tác động ngoại lực hoặc thực hiện các lệnh quay 90 độ chính xác.
+Điểm nhấn kỹ thuật của dự án là khả năng kiểm soát hướng (**Yaw Control**) kết hợp với hệ thống cân bằng, giúp robot duy trì và tự động quay về hướng chỉ định (`yaw_setpoint`) sau khi chịu tác động ngoại lực hoặc thực hiện các lệnh quay 90 độ chính xác.
 
 ## 🚀 Technical Highlights
 * **Double-Loop PID Control:** * **Inner Loop (Velocity):** Kiểm soát góc nghiêng ở tần số cao để duy trì sự cân bằng động.
