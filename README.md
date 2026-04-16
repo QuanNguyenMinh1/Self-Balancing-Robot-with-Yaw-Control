@@ -1,5 +1,12 @@
 # Self-Balancing-Robot-with-Yaw-Control
 ---
+
+
+
+
+## 📌 Overview
+Điểm nhấn kỹ thuật của dự án là khả năng kiểm soát hướng (**Yaw Control**) kết hợp với hệ thống cân bằng, giúp robot duy trì và tự động quay về hướng chỉ định (`yaw_setpoint`) sau khi chịu tác động ngoại lực hoặc thực hiện các lệnh quay 90 độ chính xác.
+
 ## Demo
 ### Turning 90 degrees
 <video src="https://github.com/user-attachments/assets/d384eeeb-b339-4759-9bde-05d9948f5932" width="100%" controls>
@@ -9,11 +16,6 @@
 <video src="https://github.com/user-attachments/assets/24c727ca-0a64-4b7e-a9e8-a64cf511929f" width="100%" controls>
 </video>
 ---
-
-
-
-## 📌 Overview
-Điểm nhấn kỹ thuật của dự án là khả năng kiểm soát hướng (**Yaw Control**) kết hợp với hệ thống cân bằng, giúp robot duy trì và tự động quay về hướng chỉ định (`yaw_setpoint`) sau khi chịu tác động ngoại lực hoặc thực hiện các lệnh quay 90 độ chính xác.
 
 ## 🚀 Technical Highlights
 * **Double-Loop PID Control:** * **Inner Loop (Velocity):** Kiểm soát góc nghiêng ở tần số cao để duy trì sự cân bằng động.
