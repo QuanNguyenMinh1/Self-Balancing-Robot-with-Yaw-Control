@@ -15,7 +15,6 @@
 ### Self-balancing
 <video src="https://github.com/user-attachments/assets/24c727ca-0a64-4b7e-a9e8-a64cf511929f" width="100%" controls>
 </video>
----
 
 ## 🚀 Technical Highlights
 * **Double-Loop PID Control:** * **Inner Loop (Velocity):** Kiểm soát góc nghiêng ở tần số cao để duy trì sự cân bằng động.
