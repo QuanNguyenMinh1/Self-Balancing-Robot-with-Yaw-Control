@@ -1,8 +1,6 @@
 # Self-Balancing-Robot-with-Yaw-Control
 
-[![Platform](https://img.shields.io/badge/MCU-STM32--Bare--Metal-blue?style=flat-square&logo=stmicroelectronics)](https://www.st.com/)
-[![Control](https://img.shields.io/badge/Control-Double--Loop_PID-red?style=flat-square)]()
-[![Yaw](https://img.shields.io/badge/Feature-Yaw_Setpoint_Recovery-green?style=flat-square)]()
+
 
 ## 📌 Overview
 Dự án phát triển robot con lắc ngược hai bánh (TWIP) trên nền tảng **STM32 (Bare-metal)**. Điểm nhấn kỹ thuật của dự án là khả năng kiểm soát hướng (**Yaw Control**) kết hợp với hệ thống cân bằng, giúp robot duy trì và tự động quay về hướng chỉ định (`yaw_setpoint`) sau khi chịu tác động ngoại lực hoặc thực hiện các lệnh quay 90 độ chính xác.
