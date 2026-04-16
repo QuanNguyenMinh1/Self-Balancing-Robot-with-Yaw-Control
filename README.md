@@ -1,7 +1,8 @@
 # Self-Balancing-Robot-with-Yaw-Control
 ---
 ## Demo
-[[video src="https://github.com/user-attachments/assets/d384eeeb-b339-4759-9bde-05d9948f5932"]]
+<video src="https://github.com/user-attachments/assets/d384eeeb-b339-4759-9bde-05d9948f5932" width="100%" controls>
+</video>
 ---
 
 
